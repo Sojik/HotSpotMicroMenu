@@ -1,0 +1,7 @@
+## Interface: 40000
+## Author: Sojik
+## Title: Hot Spot Micro Menu
+## Version: 00200
+## Notes: Moves micro menu buttons to invisible hotspots at the corners of your screen.
+
+HotSpotMicroMenu.lua
